@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+it starts a repositry for all my saved change. It will help in the debugging process.
