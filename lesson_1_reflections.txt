@@ -11,5 +11,5 @@ pros it makes logical sense cons its not automatic.
 
 Why do you think some version control systems, like Git, allow saving multiple files
 in one commit, while others, like Google Docs, treat each file separately?
-Git was made with deveopers in mind so they will need that functionality where as
+Git was made with developers in mind so they will need that functionality where as
 google docs was made more for single file documents.
