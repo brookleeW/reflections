@@ -4,3 +4,6 @@ it starts a repository for all my saved change. It will help in the debugging pr
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 the staging area works in between it lets you make changes before committing.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use the staging area to be sure that I make logical commits
