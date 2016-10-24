@@ -14,3 +14,10 @@ Branches are helpful when testing new versions.
 
 How do the diagrams help you visualize the branch structure?
 the diagrams show you the linear paths each branch takes.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+they become one master commit. to show the commits that will be merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros you don't break your code con it means you have to resolve simple conflicts manually.
