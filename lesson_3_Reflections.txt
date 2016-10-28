@@ -9,9 +9,14 @@ Describe the differences between forks, clones, and branches. When would you use
 one instead of another?
 forks are kind of like cloning but giving credit to the original and only on github
 clones can be cloned directly to your computer from github or another repository.
-branches are when you want to break off from the original but keep the original the same and can be later merged.
+branches are when you want to break off from the original but keep
+the original the same and can be later merged.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you are able to work off line.
 
-
+How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+I would probably do it with dropbox the only benifit to that though 
+would be it is easy to use everything else would be hard because it does
+not support the same functionality as git.
