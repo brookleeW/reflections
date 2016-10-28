@@ -20,3 +20,7 @@ easier, and what would be harder?
 I would probably do it with dropbox the only benifit to that though 
 would be it is easy to use everything else would be hard because it does
 not support the same functionality as git.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+when you want to experiment with your code.
